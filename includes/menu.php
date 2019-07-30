@@ -39,7 +39,7 @@
 							</ul>
 						</li>
 						<li><a href="contact.php">Contact</a></li>
-						<li class="btn-cta"><a href="#"><span>Login</span></a></li>
+						<li class="btn-cta"><a href="login.php"><span>Login</span></a></li>
 						<li class="btn-cta"><a href="#"><span>Create a Course</span></a></li>
 					</ul>
 				</div>
